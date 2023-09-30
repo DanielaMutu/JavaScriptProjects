@@ -10,3 +10,6 @@ Project 7 scope time function
 Project 8 string methods
 Project 9 countdown slideshow
 Project 10 loops arrays
+TicTacToe game
+Calculator project
+Pizza project
